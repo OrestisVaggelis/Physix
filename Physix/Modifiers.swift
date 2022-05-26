@@ -1,11 +1,3 @@
-//
-//  Modifiers.swift
-//  newStart
-//
-//  Created by Orestis Vaggelis on 18/8/20.
-//  Copyright © 2020 Orestis Vaggelis. All rights reserved.
-//
-
 import SwiftUI
 
 struct ShadowModifier: ViewModifier {
