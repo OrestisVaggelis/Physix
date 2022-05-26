@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  travelApp
-//
-//  Created by Orestis Vaggelis on 30/8/20.
-//  Copyright © 2020 Orestis Vaggelis. All rights reserved.
-//
-
 import UIKit
 import SwiftUI
 
