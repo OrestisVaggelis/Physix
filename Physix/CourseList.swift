@@ -1,11 +1,3 @@
-//
-//  CourseList.swift
-//  DesignCode
-//
-//  Created by Meng To on 2020-01-07.
-//  Copyright © 2020 Meng To. All rights reserved.
-//
-
 import SwiftUI
 import SDWebImageSwiftUI
 
