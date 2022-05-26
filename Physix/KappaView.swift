@@ -1,11 +1,3 @@
-//
-//  KappaView.swift
-//  travelApp
-//
-//  Created by Orestis Vaggelis on 2/9/20.
-//  Copyright © 2020 Orestis Vaggelis. All rights reserved.
-//
-
 import SwiftUI
 
 struct KappaView: View {
