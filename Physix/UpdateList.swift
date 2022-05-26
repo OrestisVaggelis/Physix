@@ -1,11 +1,3 @@
-//
-//  UpdateList.swift
-//  newStart
-//
-//  Created by Orestis Vaggelis on 17/8/20.
-//  Copyright © 2020 Orestis Vaggelis. All rights reserved.
-//
-
 import SwiftUI
 
 struct UpdateList: View {
